@@ -41,7 +41,7 @@ I'm a **Java backend developer** with experience in building scalable APIs, micr
 
 - 📧 hanukurli2012@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/YOURPROFILE)  
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~YOUR_ID) *(optional)*
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01683a88db0aef295c)
 
 ---
 
