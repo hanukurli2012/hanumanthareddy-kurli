@@ -1,48 +1,78 @@
-# 👋 Hi, I'm Hanumantha Reddy Kurli
+# Hi, I'm Hanumantha Reddy Kurli 👋  
 
-I'm a **Java backend developer** with experience in building scalable APIs, microservices, and enterprise-grade applications using **Spring Boot**, **JPA**, **REST**, **Docker**, and more.
-
----
-
-## 🛠️ Skills
-- ✅ Java 8+, Spring Boot, Hibernate, JPA
-- ✅ RESTful APIs, Microservices
-- ✅ MySQL, PostgreSQL, MongoDB
-- ✅ Maven, Git, Docker
-- ✅ JUnit, Mockito
-- ✅ Cloud Basics: AWS EC2, S3, Heroku
+Senior Software Development Engineer with 10+ years of experience in building **enterprise-grade, scalable microservices** for the **payment industry**. Currently working at **Verifone India Pvt Ltd**, delivering secure and high-performance acquiring and APM payment solutions.
 
 ---
 
-## 📂 Featured Projects
-
-### 🔐 [Secure REST API with JWT Auth](https://github.com/YOUR_USERNAME/jwt-auth-api)
-> Spring Boot API with login/signup, JWT-based access, and role-based authorization  
-> **Tech:** Spring Security, JPA, MySQL, Swagger  
-> ✅ Includes Swagger UI + Postman Collection
-
----
-
-### 📊 [Expense Tracker API](https://github.com/YOUR_USERNAME/expense-tracker)
-> Track income and expenses by category & month  
-> **Tech:** Spring Boot, JPA, MySQL, Docker  
-> ✅ Fully documented REST endpoints + Docker setup
+## 🚀 About Me  
+- 💼 Senior Software Development Engineer at **Verifone**
+- 💳 10+ years in **FinTech & Payment Systems**
+- 🧩 Microservices Architecture & API Design Expert
+- 🔐 Strong experience in **PCI-compliant systems**
+- 🐳 Hands-on with **Docker & CI/CD pipelines**
+- 🏗 Strong ownership from **design → development → deployment**
+- ⚡ Fast learner of new APIs & technologies
 
 ---
 
-### 📁 [PDF Generator API](https://github.com/YOUR_USERNAME/pdf-generator)
-> Generate PDFs on the fly from JSON input  
-> **Tech:** Spring Boot, iText  
-> ✅ Used for invoice generation or resume builder
+## 🛠 Tech Stack  
+
+**Languages:**  
+Java  
+
+**Frameworks:**  
+Spring Boot, Spring MVC, Spring AOP, Spring Data JPA, Spring Batch, Spring Messaging  
+
+**APIs:**  
+REST, SOAP  
+
+**Databases:**  
+MySQL, PostgreSQL, Oracle  
+
+**Security:**  
+Spring Security, OAuth2, Tokenization  
+
+**DevOps & Tools:**  
+Docker, Jenkins, GitHub Actions, Maven  
+
+**Testing:**  
+JUnit 5 (Jupiter), Mockito  
+
+**Monitoring:**  
+Kibana, Logging Tools  
 
 ---
 
-## 📫 Contact Me
+## 💼 Key Project Domains  
 
-- 📧 hanukurli2012@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/YOURPROFILE)  
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01683a88db0aef295c)
+### 💳 Acquirer Payment Processing  
+- EMV, Contactless, Magstripe Transactions  
+- Multi-Acquirer & Multi-Scheme Support (Visa, Mastercard, Amex)  
+- Built Inventory & Transaction Routing Modules  
+
+### 🌍 Alternative Payment Methods (APM)  
+- Alipay, WeChat Pay, Klarna, Blik  
+- Sale, Refund, Cancel, Technical Reversal  
+- Webhooks, Async Notifications, Reconciliation  
+- PCI DSS & Tokenization
+
+### 🏦 Banking & Loan Systems  
+- Loan Origination System  
+- Credit Limit & Collateral Management  
+- Customer Onboarding & Credit Decisioning  
 
 ---
 
-_I'm open to freelance, consulting, or collaboration on Java-based backend projects._
+## 🔥 What I'm Currently Working On  
+- High-scale payment microservices  
+- Inventory & transaction orchestration systems  
+- System performance optimization  
+- Secure API integrations  
+
+---
+
+## 📫 Connect With Me  
+- GitHub: https://github.com/hanukurli2012/hanumanthareddy-kurli  
+ 
+
+⭐ If you like my profile portfolio, feel free to follow and collaborate!
