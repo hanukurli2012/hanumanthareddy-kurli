@@ -72,7 +72,9 @@ Kibana, Logging Tools
 ---
 
 ## 📫 Connect With Me  
-- GitHub: https://github.com/hanukurli2012/hanumanthareddy-kurli  
+- GitHub: https://github.com/hanukurli2012/hanumanthareddy-kurli
+- phone: +91- 8608907332
+- email: hanukurli2012@gmail.com
  
 
 ⭐ If you like my profile portfolio, feel free to follow and collaborate!
